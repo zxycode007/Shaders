@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: c335debc2bc6c2b47a7986d7ac8ad304
+timeCreated: 1458834863
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: AUTOMATE
+    100002: //RootNode
+    100004: AUTOMATE_Arm_L
+    100006: AUTOMATE_Arm_L_Gear
+    100008: AUTOMATE_Arm_L_Gear_nub
+    100010: AUTOMATE_Arm_L_nub
+    100012: AUTOMATE_Arm_R
+    100014: AUTOMATE_Arm_R_Gear
+    100016: AUTOMATE_Arm_R_Gear_nub
+    100018: AUTOMATE_Arm_R_nub
+    100020: AUTOMATE_Calf_Gear_L
+    100022: AUTOMATE_Calf_Gear_L_nub
+    100024: AUTOMATE_Calf_Gear_R
+    100026: AUTOMATE_Calf_Gear_R_nub
+    100028: AUTOMATE_Calf_L
+    100030: AUTOMATE_Calf_L_nub
+    100032: AUTOMATE_Calf_R
+    100034: AUTOMATE_Calf_R_nub
+    100036: AUTOMATE_Clavicle_L
+    100038: AUTOMATE_Clavicle_L_Gear
+    100040: AUTOMATE_Clavicle_L_Gear_nub
+    100042: AUTOMATE_Clavicle_L_nub
+    100044: AUTOMATE_Clavicle_R
+    100046: AUTOMATE_Clavicle_R_Gear
+    100048: AUTOMATE_Clavicle_R_Gear_nub
+    100050: AUTOMATE_Clavicle_R_nub
+    100052: AUTOMATE_Elbow_L_Gear
+    100054: AUTOMATE_Elbow_L_Gear_nub
+    100056: AUTOMATE_Elbow_R_Gear
+    100058: AUTOMATE_Elbow_R_Gear_nub
+    100060: AUTOMATE_Foot_Gear_L
+    100062: AUTOMATE_Foot_Gear_L_nub
+    100064: AUTOMATE_Foot_L
+    100066: AUTOMATE_Foot_L_nub
+    100068: AUTOMATE_Foot_R
+    100070: AUTOMATE_Foot_R_Gear_
+    100072: AUTOMATE_Foot_R_Gear_nub
+    100074: AUTOMATE_Foot_R_nub
+    100076: AUTOMATE_Forearm_L
+    100078: AUTOMATE_Forearm_L_nub
+    100080: AUTOMATE_Forearm_R
+    100082: AUTOMATE_Forearm_R_nub
+    100084: AUTOMATE_Head
+    100086: AUTOMATE_Head_Gear
+    100088: AUTOMATE_Head_Gear_nub
+    100090: AUTOMATE_Head_nub
+    100092: AUTOMATE_Hip_Gear_L
+    100094: AUTOMATE_Hip_Gear_L_nub
+    100096: AUTOMATE_Hip_Gear_R
+    100098: AUTOMATE_Hip_Gear_R_nub
+    100100: AUTOMATE_Neck
+    100102: AUTOMATE_Neck_Gear
+    100104: AUTOMATE_Neck_Gear_nub
+    100106: AUTOMATE_Neck_nub
+    100108: AUTOMATE_Pelvis
+    100110: AUTOMATE_Pelvis_Gear_Front
+    100112: AUTOMATE_Pelvis_Gear_Front_nub
+    100114: AUTOMATE_Pelvis_L_Gear_L
+    100116: AUTOMATE_Pelvis_L_Gear_nub
+    100118: AUTOMATE_Pelvis_nub
+    100120: AUTOMATE_Pelvis_R_Gear_L
+    100122: AUTOMATE_Pelvis_R_Gear_nub
+    100124: AUTOMATE_ROOT
+    100126: AUTOMATE_ROOT_nub
+    100128: AUTOMATE_Shoulder_L
+    100130: AUTOMATE_Shoulder_L_Gear
+    100132: AUTOMATE_Shoulder_L_Gear_nub
+    100134: AUTOMATE_Shoulder_L_nub
+    100136: AUTOMATE_Shoulder_R
+    100138: AUTOMATE_Shoulder_R_Gear
+    100140: AUTOMATE_Shoulder_R_Gear_nub
+    100142: AUTOMATE_Shoulder_R_nub
+    100144: AUTOMATE_Spine
+    100146: AUTOMATE_Spine_Gear_1
+    100148: AUTOMATE_Spine_Gear_1_nub
+    100150: AUTOMATE_Spine_Gear_2
+    100152: AUTOMATE_Spine_Gear_2_nub
+    100154: AUTOMATE_Spine_nub
+    100156: AUTOMATE_Thigh_Gear_L
+    100158: AUTOMATE_Thigh_Gear_L_nub
+    100160: AUTOMATE_Thigh_Gear_R
+    100162: AUTOMATE_Thigh_Gear_R_nub
+    100164: AUTOMATE_Thigh_L
+    100166: AUTOMATE_Thigh_L_nub
+    100168: AUTOMATE_Thigh_R
+    100170: AUTOMATE_Thigh_R_nub
+    100172: "Cha\xEEne CI003"
+    100174: "Cha\xEEne CI004"
+    100176: "Cha\xEEne CI005"
+    100178: "Cha\xEEne CI006"
+    100180: Dummy001
+    100182: Dummy002
+    100184: Dummy003
+    100186: Factice001
+    100188: Factice031
+    100190: Factice041
+    100192: Factice042
+    100194: Factice043
+    100196: Factice044
+    100198: FLOOR_REF
+    400000: AUTOMATE
+    400002: //RootNode
+    400004: AUTOMATE_Arm_L
+    400006: AUTOMATE_Arm_L_Gear
+    400008: AUTOMATE_Arm_L_Gear_nub
+    400010: AUTOMATE_Arm_L_nub
+    400012: AUTOMATE_Arm_R
+    400014: AUTOMATE_Arm_R_Gear
+    400016: AUTOMATE_Arm_R_Gear_nub
+    400018: AUTOMATE_Arm_R_nub
+    400020: AUTOMATE_Calf_Gear_L
+    400022: AUTOMATE_Calf_Gear_L_nub
+    400024: AUTOMATE_Calf_Gear_R
+    400026: AUTOMATE_Calf_Gear_R_nub
+    400028: AUTOMATE_Calf_L
+    400030: AUTOMATE_Calf_L_nub
+    400032: AUTOMATE_Calf_R
+    400034: AUTOMATE_Calf_R_nub
+    400036: AUTOMATE_Clavicle_L
+    400038: AUTOMATE_Clavicle_L_Gear
+    400040: AUTOMATE_Clavicle_L_Gear_nub
+    400042: AUTOMATE_Clavicle_L_nub
+    400044: AUTOMATE_Clavicle_R
+    400046: AUTOMATE_Clavicle_R_Gear
+    400048: AUTOMATE_Clavicle_R_Gear_nub
+    400050: AUTOMATE_Clavicle_R_nub
+    400052: AUTOMATE_Elbow_L_Gear
+    400054: AUTOMATE_Elbow_L_Gear_nub
+    400056: AUTOMATE_Elbow_R_Gear
+    400058: AUTOMATE_Elbow_R_Gear_nub
+    400060: AUTOMATE_Foot_Gear_L
+    400062: AUTOMATE_Foot_Gear_L_nub
+    400064: AUTOMATE_Foot_L
+    400066: AUTOMATE_Foot_L_nub
+    400068: AUTOMATE_Foot_R
+    400070: AUTOMATE_Foot_R_Gear_
+    400072: AUTOMATE_Foot_R_Gear_nub
+    400074: AUTOMATE_Foot_R_nub
+    400076: AUTOMATE_Forearm_L
+    400078: AUTOMATE_Forearm_L_nub
+    400080: AUTOMATE_Forearm_R
+    400082: AUTOMATE_Forearm_R_nub
+    400084: AUTOMATE_Head
+    400086: AUTOMATE_Head_Gear
+    400088: AUTOMATE_Head_Gear_nub
+    400090: AUTOMATE_Head_nub
+    400092: AUTOMATE_Hip_Gear_L
+    400094: AUTOMATE_Hip_Gear_L_nub
+    400096: AUTOMATE_Hip_Gear_R
+    400098: AUTOMATE_Hip_Gear_R_nub
+    400100: AUTOMATE_Neck
+    400102: AUTOMATE_Neck_Gear
+    400104: AUTOMATE_Neck_Gear_nub
+    400106: AUTOMATE_Neck_nub
+    400108: AUTOMATE_Pelvis
+    400110: AUTOMATE_Pelvis_Gear_Front
+    400112: AUTOMATE_Pelvis_Gear_Front_nub
+    400114: AUTOMATE_Pelvis_L_Gear_L
+    400116: AUTOMATE_Pelvis_L_Gear_nub
+    400118: AUTOMATE_Pelvis_nub
+    400120: AUTOMATE_Pelvis_R_Gear_L
+    400122: AUTOMATE_Pelvis_R_Gear_nub
+    400124: AUTOMATE_ROOT
+    400126: AUTOMATE_ROOT_nub
+    400128: AUTOMATE_Shoulder_L
+    400130: AUTOMATE_Shoulder_L_Gear
+    400132: AUTOMATE_Shoulder_L_Gear_nub
+    400134: AUTOMATE_Shoulder_L_nub
+    400136: AUTOMATE_Shoulder_R
+    400138: AUTOMATE_Shoulder_R_Gear
+    400140: AUTOMATE_Shoulder_R_Gear_nub
+    400142: AUTOMATE_Shoulder_R_nub
+    400144: AUTOMATE_Spine
+    400146: AUTOMATE_Spine_Gear_1
+    400148: AUTOMATE_Spine_Gear_1_nub
+    400150: AUTOMATE_Spine_Gear_2
+    400152: AUTOMATE_Spine_Gear_2_nub
+    400154: AUTOMATE_Spine_nub
+    400156: AUTOMATE_Thigh_Gear_L
+    400158: AUTOMATE_Thigh_Gear_L_nub
+    400160: AUTOMATE_Thigh_Gear_R
+    400162: AUTOMATE_Thigh_Gear_R_nub
+    400164: AUTOMATE_Thigh_L
+    400166: AUTOMATE_Thigh_L_nub
+    400168: AUTOMATE_Thigh_R
+    400170: AUTOMATE_Thigh_R_nub
+    400172: "Cha\xEEne CI003"
+    400174: "Cha\xEEne CI004"
+    400176: "Cha\xEEne CI005"
+    400178: "Cha\xEEne CI006"
+    400180: Dummy001
+    400182: Dummy002
+    400184: Dummy003
+    400186: Factice001
+    400188: Factice031
+    400190: Factice041
+    400192: Factice042
+    400194: Factice043
+    400196: Factice044
+    400198: FLOOR_REF
+    4300000: AUTOMATE
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: AUTOMATE
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
